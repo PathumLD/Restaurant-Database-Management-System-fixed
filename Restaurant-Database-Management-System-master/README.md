@@ -6,7 +6,7 @@
 
 
 Github link to the original project
-https://github.com/PathumLD/Restaurant-Database-Management-System.git
+https://github.com/elfilosof87/Restaurant-Database-Management-System.git
 
 
 
